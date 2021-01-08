@@ -1,5 +1,9 @@
 # RektD2Companion
 
+This is a personal project that I am writing for my Destiny 2 Clan, in order to be able to look up user game stats.
+
+---
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
 
 ## Development server
